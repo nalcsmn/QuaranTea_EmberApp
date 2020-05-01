@@ -447,8 +447,8 @@ p {
   position: relative;
 }
 
-.tomster {
-  background: url(../assets/images/teaching-tomster.png);
+.milktea {
+  background: url(../assets/images/milkTea.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 200px;
